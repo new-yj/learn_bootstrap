@@ -1,0 +1,23 @@
+{
+  "name": "learn_bootstrap",
+  "version": "1.0.0",
+  "description": "learn bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "./node_modules/.bin/webpack.cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yijiongwtt/learn_bootstrap.git"
+  },
+  "author": "YiJiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yijiongwtt/learn_bootstrap/issues"
+  },
+  "homepage": "https://github.com/yijiongwtt/learn_bootstrap#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
